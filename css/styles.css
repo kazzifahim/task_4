@@ -233,7 +233,7 @@ html {
 /* Contact Section Start */
 .contact-section {
     padding: 4rem 2rem;
-    background-image: linear-gradient(to right, rgba(50, 36, 176, 0.911), rgba(190, 94, 222, 0.911)), url(/images/contact-bg.jpg);  
+    background-image: linear-gradient(to right, rgba(50, 36, 176, 0.911), rgba(190, 94, 222, 0.911)), url(../images/contact-bg.jpg);  
     
 }
 
